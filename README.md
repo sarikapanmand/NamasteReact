@@ -2,7 +2,9 @@
 
 ##**Episode 1**
 
+
 ###**Title: "Inception**
+
 
 Marked the enthusiastic start of the Namaste React Live course. The entire class was buzzing with anticipation for the exciting
 journey ahead. Our introduction to React began with building a strong foundation right from scratch.The instructor thoroughly guided us through the process of
