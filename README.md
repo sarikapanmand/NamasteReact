@@ -1,7 +1,10 @@
-# NamasteReact
-Episode 1
-Title: "Inception
-marked the enthusiastic start of the Namaste React Live course. The entire class was buzzing with anticipation for the exciting
+#**NamasteReact**
+
+##**Episode 1**
+
+###**Title: "Inception**
+
+Marked the enthusiastic start of the Namaste React Live course. The entire class was buzzing with anticipation for the exciting
 journey ahead. Our introduction to React began with building a strong foundation right from scratch.The instructor thoroughly guided us through the process of
 setting up our environment, ensuring we were well-prepared.We delved into the basics by crafting a simple "Hello, World!" program. The initial approach involved
 using just HTML, after which we progressed to implementing the same output with JavaScript. The climax of this session was creating the equivalent 
