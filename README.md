@@ -1,9 +1,9 @@
 #**NamasteReact**
 
-##**Episode 1**
+**Episode 1**
 
 
-###**Title: "Inception**
+**Title: "Inception**
 
 
 Marked the enthusiastic start of the Namaste React Live course. The entire class was buzzing with anticipation for the exciting
